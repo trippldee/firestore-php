@@ -1,5 +1,5 @@
 {
-    "name": "ahsankhatri/firestore-php",
+    "name": "trippldee/firestore-php",
     "description": "Firestore PHP Client",
     "keywords": [
         "php",
@@ -7,13 +7,13 @@
         "firebase",
         "google"
     ],
-    "homepage": "https://github.com/ahsankhatri/firestore-php",
+    "homepage": "https://github.com/trippldee/firestore-php",
     "license": "MIT",
     "authors": [
         {
             "name": "Ahsaan Muhammad Yousuf",
-            "email": "ahsankhatri1992@gmail.com",
-            "homepage": "https://ahsaan.me",
+            "email": "trippldee1@gmail.com",
+            "homepage": "https://trippldee.com",
             "role": "Developer"
         }
     ],
