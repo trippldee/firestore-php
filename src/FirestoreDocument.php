@@ -17,10 +17,10 @@ use MrShan0\PHPFirestore\Helpers\FirestoreHelper;
 
 class FirestoreDocument {
 
-    private $fields           = [];
-    private $name             = null;
-    private $createTime       = null;
-    private $updateTime       = null;
+    public $fields           = [];
+    public $name             = null;
+    public $createTime       = null;
+    public $updateTime       = null;
 
     /**
      * Hold DatabaseResource Object
